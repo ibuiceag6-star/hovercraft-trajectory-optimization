@@ -23,7 +23,7 @@ This project models and optimizes the trajectories of two hovercrafts — Alice 
 ## Visualization
 The hovercraft trajectories are visualized below:
 
-![Hovercraft Trajectories](results_plot.png)
+![Hovercraft Trajectories](hovercraft_trajectories.png)
 
 ## Learnings
 Through this project, I gained experience in:
